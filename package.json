@@ -1,0 +1,24 @@
+{
+  "name": "nodejshw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon a.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madina160897/nodejshw2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madina160897/nodejshw2/issues"
+  },
+  "homepage": "https://github.com/Madina160897/nodejshw2#readme"
+}
